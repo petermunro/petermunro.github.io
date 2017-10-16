@@ -217,6 +217,7 @@ socket.on('chat-message', message => {
 ---
 ## Further exercises for the reader
 
-1. If you empty the 'message' input, make "is typing a message..." disappear.
-2. Display a list of users
-3. Send a private message to just one user
+1. A nice feature of chat systems is to display "joe is typing a message..." when joe starts typing. Implement this functionality.
+2. If you empty the 'message' input, make "is typing a message..." disappear.
+3. Display a list of users
+4. Send a private message to just one user
