@@ -113,7 +113,14 @@ Now to enable our server for websockets, using the `socket.io` library.
     2. Add into this a `console.log('chat.js running')` so we can check the script is running in the browser.
     3. Also add the line `let socket = io.connect();`
 
-7. Run the server again and connect from your browser. Refreshing the browser page a few times should show some messages in the server console.
+7. Include these lines before the closing `</body>` tag in your `public/index.html`:
+
+    ``` html
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="/chat.js"></script>
+    ```
+
+8. Run the server again and connect from your browser. Refreshing the browser page a few times should show some messages in the server console.
 
 ## Part 3 - Sending Data
 
