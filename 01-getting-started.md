@@ -1,4 +1,4 @@
-# Introducing HTML5 – HTML Standards
+# Introducing HTML5 - HTML Standards
 
 ## WHATWG
 
