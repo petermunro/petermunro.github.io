@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", Helvetica, Verdana, sans-serif;
+  color: #222;
+  padding: 2rem;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.outer {
+  background-color: #ddd;
+  margin: 0rem 8rem 6rem;
+}
+
+.inner {
+  background-color: palevioletred;
+  opacity: 0.9;
+}
+
+.box-0 .inner {
+    transform: rotateY(45deg);
+}
