@@ -2,7 +2,7 @@
 
 Text Exercises
 
-Use [this](text/text-formatting.html) HTML file.
+Use [this](text/text-formatting.html) HTML file (and [this](https://github.com/petermunro/petermunro.github.io/blob/master/css3/text/nypl.jpg) image).
 
 1. Change the color of _all_ text to #3e2c00.
 2. Center all `<h1>` elements (`text-align`).
