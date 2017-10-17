@@ -20,8 +20,7 @@
 1. Set box 5 to a higher order than 1. Where does it appear?
 2. Make boxes 3 and 2 appear later still.
 3. Inspect the elements in the developer tools.
-   At what point does the browser apply the ordering?
-4. Has it changed the DOM?
+   Has the display ordering changed the DOM?
 
 ## Display Order -- Part 2
 
