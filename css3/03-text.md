@@ -2,6 +2,7 @@
 
 Text Exercises
 
+Use [this](text/text-formatting.html) HTML file.
 
 1. Change the color of _all_ text to #3e2c00.
 2. Center all `<h1>` elements (`text-align`).
