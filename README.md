@@ -7,5 +7,5 @@
 - [04 Transforms - 2D](css3/04-transforms-2d.md)
 - [05 Transforms - 3D](css3/05-transforms-3d.md)
 - [06 Transitions](css3/06-transitions.md)
-- [07 Transitions](css3/07-flexbox.md)
-- [08 Transitions](css3/08-flexbox-part-2.md)
+- [07 Flexbox 1](css3/07-flexbox.md)
+- [08 Flexbox 2](css3/08-flexbox-part-2.md)
