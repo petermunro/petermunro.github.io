@@ -43,7 +43,7 @@ Content
 
 ## Using the Box Model to Implement a Design
 
-This [HTML file](images/box-model.html) contains some markup.
+This [HTML file](basics/box-model.html) contains some markup.
 
 1. Add an external stylesheet to the HTML file.
 
