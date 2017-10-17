@@ -26,7 +26,7 @@
 }
 </style>
 
-<div class="box-model-demo">
+<div class="box-model-demo" style="width: 200px; height: 100px; border: 4px solid blueviolet; padding: 20px; background-color: #c2ce89; margin: 15px;">
 Content
 </div>
 
