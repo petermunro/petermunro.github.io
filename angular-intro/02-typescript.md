@@ -55,7 +55,7 @@ You can also specify types explicitly.
             hasRoofRack: true,
         };
 
-        function displayCar(car: Car) {
+        function displayCar(car) {
             console.log(`A ${car.year} ${car.make} ${car.model} with${car.hasRoofRack ? '' : 'out'} a roof rack`);
         }
 
