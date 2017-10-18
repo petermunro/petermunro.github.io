@@ -10,13 +10,10 @@
        $  ng -v
 
    This should display a version message.
-   If the command is not found, install Angular CLI:
-
-       $ npm install -g @angular/cli
 
 2. Use Angular CLI to create a new project:
 
-       $ ng create my-app
+       $ ng new my-app
 
    This takes some time.
 
